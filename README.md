@@ -1,4 +1,4 @@
-# nuxt使用pm2部署启动遇到的坑
+# windows下pm2运行nuxt项目遇到的坑
 
 >  nuxt/ pm2
 
